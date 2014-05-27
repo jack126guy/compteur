@@ -1,0 +1,21 @@
+.compteur {
+	padding: 0;
+}
+.compteur li {
+	display: inline-block;
+	width: 10em;
+	height: 15em;
+	vertical-align: top;
+}
+.compteur-image {
+	width: 7em;
+	height: 7em;
+	margin: 1.5em;
+}
+.compteur-image > * {
+	width: 100%;
+	vertical-align: middle;
+}
+.compteur-info {
+	text-align: center;
+}

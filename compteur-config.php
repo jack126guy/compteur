@@ -30,6 +30,8 @@ $compteur['accounts'][] = array(
 );
 
 */
-/* Copy the account listing format below this line */
+/* Add the acounts below this line */
 
+
+/* Add the acounts above this line */
 ?>

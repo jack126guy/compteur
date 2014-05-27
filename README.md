@@ -11,11 +11,9 @@ The word "compteur" (pronounced something like "con-tur") is the French word for
 Installation can be done on any Web server that has a "recent" version of PHP (almost any version will do).
 
 1. Transfer the files to the server. to the same folder as the page where you want to display the account list. (It is possible to place them in a different folder, but that requires different instructions.)
-
     * If you're just using Compteur, you only need the files whose names start with "compteur". The rest are needed only if you're sharing your own version.
 
 2. Add your accounts. Edit the accounts section `compteur-config.php` file (it's marked with `//Accounts`). Instructions are included in the file itself.
-
     * The information fields may need a bit more explanation:
 
         * *name*: The site name. This shows up when the mouse is rolled over the list item.

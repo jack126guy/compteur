@@ -32,9 +32,10 @@ Installation can be done on any Web server that has a "recent" version of PHP (a
 
 ## Customization
 
-The appearance of the list can be changed. The CSS styles can be changed in `compteur-styles.css`, which should need no further explanation.
+The appearance of the list can be changed.
 
-The actual HTML can be changed in `compteur-config.php`. This can be done in the section marked with `//Formatting options`. The file itself has instructions on how to change the HTML.
+* The CSS styles can be changed in `compteur-styles.css`.
+* The actual HTML can be changed in `compteur-config.php`. This can be done in the section marked with `//Formatting options`. The file itself has instructions on how to change the HTML.
 
 Notes:
 

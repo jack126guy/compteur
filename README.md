@@ -2,7 +2,7 @@
 
 Compteur is a simple program for presenting a nicely formatted list of online accounts on a Web page. It can also be used for any gallery of website links.
 
-The latest version is version 1.1.
+The latest version is version 1.2.
 
 The word "compteur" (pronounced something like "con-tur") is the French word for a counter (that is, a small object used for counting, or someone who counts). It is related to the word "compte", meaning "account", even though they have somewhat different meanings.
 

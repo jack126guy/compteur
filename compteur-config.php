@@ -12,7 +12,7 @@ $compteur['format'] = array(
 	  %3$s - Account name/info
 	  %4$s - Image
 	*/
-	'item' => '<li><a href="%2$s"><div class="compteur-image"><img src="%4$s" alt="%1$s" title="%1$s"/></div><div class="compteur-info">%3$s</div></a></li>',
+	'item' => '<li><a href="%2$s"><img src="%4$s" alt="%1$s" title="%1$s" class="compteur-image"/><div class="compteur-info">%3$s</div></a></li>',
 
 	//Code after the account items (probably an HTML end tag)
 	'after' => '</ul>'

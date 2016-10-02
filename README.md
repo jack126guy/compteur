@@ -1,5 +1,9 @@
 # Compteur
 
+**Attention**: This is old and terrible; don't use it. It's badly written (global state!) and just plain unnecessary (it doesn't save any code over copying and pasting the HTML). If you like the styles, you can use the HTML and CSS on your own page.
+
+----------
+
 Compteur is a simple program for presenting a nicely formatted list of online accounts on a Web page. It can also be used for any gallery of website links.
 
 The latest version is version 1.2.

@@ -1,6 +1,6 @@
 # Compteur
 
-**Attention**: This is old and terrible; don't use it. It's badly written (global state!) and just plain unnecessary (it doesn't save any code over copying and pasting the HTML). If you like the styles, you can use the HTML and CSS on your own page.
+**Attention**: This is old and terrible; don't use it. It's badly written (global state!) and just plain unnecessary (it doesn't save any code over copying and pasting the HTML). I've placed the code in the public domain (see `LICENSE.txt` for details), so if you like the styles you can use the HTML and CSS on your own page.
 
 ----------
 
